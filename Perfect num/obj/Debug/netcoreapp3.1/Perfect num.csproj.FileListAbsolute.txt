@@ -1,0 +1,14 @@
+C:\Users\Ahmed Hosam\Desktop\Perfect num\Perfect num\bin\Debug\netcoreapp3.1\Perfect num.exe
+C:\Users\Ahmed Hosam\Desktop\Perfect num\Perfect num\bin\Debug\netcoreapp3.1\Perfect num.deps.json
+C:\Users\Ahmed Hosam\Desktop\Perfect num\Perfect num\bin\Debug\netcoreapp3.1\Perfect num.runtimeconfig.json
+C:\Users\Ahmed Hosam\Desktop\Perfect num\Perfect num\bin\Debug\netcoreapp3.1\Perfect num.runtimeconfig.dev.json
+C:\Users\Ahmed Hosam\Desktop\Perfect num\Perfect num\bin\Debug\netcoreapp3.1\Perfect num.dll
+C:\Users\Ahmed Hosam\Desktop\Perfect num\Perfect num\bin\Debug\netcoreapp3.1\Perfect num.pdb
+C:\Users\Ahmed Hosam\Desktop\Perfect num\Perfect num\obj\Debug\netcoreapp3.1\Perfect num.csproj.AssemblyReference.cache
+C:\Users\Ahmed Hosam\Desktop\Perfect num\Perfect num\obj\Debug\netcoreapp3.1\Perfect num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Hosam\Desktop\Perfect num\Perfect num\obj\Debug\netcoreapp3.1\Perfect num.AssemblyInfoInputs.cache
+C:\Users\Ahmed Hosam\Desktop\Perfect num\Perfect num\obj\Debug\netcoreapp3.1\Perfect num.AssemblyInfo.cs
+C:\Users\Ahmed Hosam\Desktop\Perfect num\Perfect num\obj\Debug\netcoreapp3.1\Perfect num.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Hosam\Desktop\Perfect num\Perfect num\obj\Debug\netcoreapp3.1\Perfect num.dll
+C:\Users\Ahmed Hosam\Desktop\Perfect num\Perfect num\obj\Debug\netcoreapp3.1\Perfect num.pdb
+C:\Users\Ahmed Hosam\Desktop\Perfect num\Perfect num\obj\Debug\netcoreapp3.1\Perfect num.genruntimeconfig.cache
