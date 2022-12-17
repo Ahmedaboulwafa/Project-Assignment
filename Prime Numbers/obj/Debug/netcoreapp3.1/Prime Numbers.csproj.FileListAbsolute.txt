@@ -1,0 +1,14 @@
+C:\Users\Ahmed Hosam\Desktop\Prime Numbers\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.exe
+C:\Users\Ahmed Hosam\Desktop\Prime Numbers\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.deps.json
+C:\Users\Ahmed Hosam\Desktop\Prime Numbers\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.runtimeconfig.json
+C:\Users\Ahmed Hosam\Desktop\Prime Numbers\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.runtimeconfig.dev.json
+C:\Users\Ahmed Hosam\Desktop\Prime Numbers\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.dll
+C:\Users\Ahmed Hosam\Desktop\Prime Numbers\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.pdb
+C:\Users\Ahmed Hosam\Desktop\Prime Numbers\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.csproj.AssemblyReference.cache
+C:\Users\Ahmed Hosam\Desktop\Prime Numbers\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Hosam\Desktop\Prime Numbers\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.AssemblyInfoInputs.cache
+C:\Users\Ahmed Hosam\Desktop\Prime Numbers\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.AssemblyInfo.cs
+C:\Users\Ahmed Hosam\Desktop\Prime Numbers\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Hosam\Desktop\Prime Numbers\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.dll
+C:\Users\Ahmed Hosam\Desktop\Prime Numbers\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.pdb
+C:\Users\Ahmed Hosam\Desktop\Prime Numbers\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.genruntimeconfig.cache
